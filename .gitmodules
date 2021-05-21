@@ -1,0 +1,3 @@
+[submodule "tools/kati"]
+	path = tools/kati
+	url = https://github.com/gkgoat1/kati.git
